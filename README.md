@@ -2319,6 +2319,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [richgo](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
 * [rts](https://github.com/galeone/rts) - RTS: response to struct. Generates Go structs from server responses.
 * [typex](https://github.com/dtgorski/typex) - Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration.
+* [godepviz](https://github.com/chuongtrh/godepviz) - Visualize Go dependency in Graphviz DOT format - [demo](https://godepgraph.vercel.app/)
 
 ## Software Packages
 
